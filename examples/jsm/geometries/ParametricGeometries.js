@@ -1,7 +1,7 @@
 import {
 	Curve,
 	Vector3
-} from 'three';
+} from '../../../build/three.module.js'; /* CS559 adaptation */
 
 import { ParametricGeometry } from './ParametricGeometry.js';
 

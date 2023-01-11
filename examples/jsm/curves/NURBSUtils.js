@@ -1,7 +1,7 @@
 import {
 	Vector3,
 	Vector4
-} from 'three';
+} from '../../../build/three.module.js'; /* CS559 adaptation */
 
 /**
  * NURBS utils

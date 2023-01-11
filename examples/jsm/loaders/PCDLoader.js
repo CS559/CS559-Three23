@@ -7,7 +7,7 @@ import {
 	LoaderUtils,
 	Points,
 	PointsMaterial
-} from 'three';
+} from '../../../build/three.module.js'; /* CS559 adaptation */
 
 class PCDLoader extends Loader {
 

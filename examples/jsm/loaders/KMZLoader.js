@@ -3,7 +3,7 @@ import {
 	Group,
 	Loader,
 	LoadingManager
-} from 'three';
+} from '../../../build/three.module.js'; /* CS559 adaptation */
 import { ColladaLoader } from '../loaders/ColladaLoader.js';
 import * as fflate from '../libs/fflate.module.js';
 

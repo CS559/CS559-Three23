@@ -2,7 +2,7 @@ import {
 	DataTextureLoader,
 	LinearFilter,
 	LinearMipmapLinearFilter
-} from 'three';
+} from '../../../build/three.module.js'; /* CS559 adaptation */
 
 import UTIF from '../libs/utif.module.js';
 

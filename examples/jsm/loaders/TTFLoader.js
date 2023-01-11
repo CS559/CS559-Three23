@@ -1,7 +1,7 @@
 import {
 	FileLoader,
 	Loader
-} from 'three';
+} from '../../../build/three.module.js'; /* CS559 adaptation */
 import opentype from '../libs/opentype.module.js';
 
 /**

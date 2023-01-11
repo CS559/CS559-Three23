@@ -14,7 +14,7 @@ import {
 	Matrix4,
 	MathUtils,
 	EventDispatcher
-} from 'three';
+} from '../../../build/three.module.js'; /* CS559 adaptation */
 
 //trackball state
 const STATE = {

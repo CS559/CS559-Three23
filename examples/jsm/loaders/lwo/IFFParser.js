@@ -32,7 +32,7 @@
  *
  **/
 
-import { LoaderUtils } from 'three';
+import { LoaderUtils } from '../../../build/three.module.js'; /* CS559 adaptation */
 import { LWO2Parser } from './LWO2Parser.js';
 import { LWO3Parser } from './LWO3Parser.js';
 

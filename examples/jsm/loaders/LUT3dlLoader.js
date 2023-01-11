@@ -9,7 +9,7 @@ import {
 	UnsignedByteType,
 	ClampToEdgeWrapping,
 	LinearFilter,
-} from 'three';
+} from '../../../build/three.module.js'; /* CS559 adaptation */
 
 export class LUT3dlLoader extends Loader {
 
