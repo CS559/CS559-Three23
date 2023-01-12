@@ -33,4 +33,8 @@ The following steps were taken:
 2. copy `src` and renamed it to `types`
 3. edit `three.module.d.ts` to refer to `types` (rather than `src`)
 
-This has not yet been tested...
+This has not yet been tested fully... A few of the demos do work.
+
+Note: step 3 (editing the files to point to the right thing) was not an elegant approach.
+In the future, we should use the library "as is" and then use an "import map" to load things
+correctly.  (see https://threejs.org/docs/index.html#manual/en/introduction/Installation "Addons")
