@@ -10,6 +10,8 @@ If you want other things (like the sources or the documentations or examples), d
 This archive was created by downloading three.js-master on January 10, 2023.
 It is THREE version **148**.
 
+The version of THREE for class is in the [2023 CS 559 Three Repo](https://github.com/CS559/CS559-Three23). 
+
 The choices of files are based on last year (which might not be an informed choice).
 
 What's here (all copied from the THREE distribution):
